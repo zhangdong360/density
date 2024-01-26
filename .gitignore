@@ -4,3 +4,7 @@
 .Ruserdata
 .csv
 .tsv
+*.tsv
+*.csv
+*.png
+*.txt
